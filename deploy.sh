@@ -1,5 +1,5 @@
 set -e
-yarn
+yarn build
 cd dist
 git init 
 git add .
